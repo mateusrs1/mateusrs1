@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS">
     <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React">
     <img src="https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react" alt="React Native">
+    <img src="https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite" alt="Vite">
     <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=green" alt="Django">
     <img src="https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwind-css" alt="Tailwind">
     <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git">
